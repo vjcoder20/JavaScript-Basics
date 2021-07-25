@@ -38,3 +38,5 @@ let fs = require("fs");
 // let address = "F:\\Web Development PepCoding\\JavaScript-Basics\\PepDev-1";
 // let content = fs.readdirSync(address);
 // console.log("directory content",content);
+/* F:\Web Development PepCoding\JavaScript-Basics\PepDev-1 -> Directory Path*/
+/* F:\Web Development PepCoding\JavaScript-Basics\PepDev-1\lec4.js -> File Path */
