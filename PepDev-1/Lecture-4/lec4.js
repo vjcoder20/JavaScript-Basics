@@ -19,7 +19,7 @@ let fs = require("fs");
 // console.log("File Removed");
 
 //****************************  Directory/Folder      ************************************ */
-// fs.mkdirSync("MyDirectory");
+fs.mkdirSync("MyDirectory");
 // create directory
 // fs.rmdirSync("MyDirectory");
 //remove directory

@@ -5,7 +5,10 @@ let a = 10;
 // let str = 'Hello I am also a \nstring ' + a;
 // console.log(str);
 // template string it is enclosed inside backtick
-let str1 = `Hello_I_am a template string ${a}`;
+let str1 = `Hello_I_am a template string 
+
+
+${a}`;
 console.log("Actual str:", str1);
 let charAt4 = str1.charAt(4).toUpperCase(); 
 console.log("char At 4", charAt4);
