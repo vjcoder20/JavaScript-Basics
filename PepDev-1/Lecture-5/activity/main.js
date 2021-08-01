@@ -1,7 +1,7 @@
 let helpObj = require("./command/help");
 let treeObj = require("./command/tree");
 let organizeObj = require("./command/organize");
-let inputArr = process.argv.slice(2);
+let inputArr = process.argv.slice(2); //it will remove node and file name from the input.
 let command = inputArr[0];
 switch (command) {
     case "tree":
